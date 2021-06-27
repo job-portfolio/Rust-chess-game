@@ -13,17 +13,7 @@ The code is divided into six Rust files:
 
 The board:
 
- | A| B| C| D| E| F| G| H|
-===========================
-1|wR wN wB wQ wK wB wN wR |
-2|wP wP wP wP wP wP wP wP |
-3|                        |
-4|                        |
-5|                        |
-6|                        |
-7|bP bP bP bP bP bP bP bP |
-8|bR bN bB bQ bK bB bN bR |
-===========================
+
 
 Code Walkthrough:
   - Each player is created, denoted by their colour: white | black

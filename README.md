@@ -13,6 +13,7 @@ The code is divided into six Rust files:
 
 The board:
 
+![alt text](https://github.com/job-portfolio/Rust-chess-game/blob/main/board-image.PNG)
 
 
 Code Walkthrough:
